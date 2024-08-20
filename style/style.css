@@ -1,0 +1,26 @@
+.wrapper{
+	width: 40%;
+	margin:0 auto;
+	border:2px solid #ddd;
+}
+label{
+	font-size: 20px;
+}
+.first_name,.last_name,.number,.email,.password,.date {
+	width:90%;
+	height:15px;
+	padding: 10px;
+	font-size: 18px;
+}
+form {
+	width:80%;
+    display: block;
+    margin-top: 0em;
+    unicode-bidi: isolate;
+}
+body {
+    display: block;
+    margin: 100px;}
+.centered-heading{
+	text-align: center;
+}
