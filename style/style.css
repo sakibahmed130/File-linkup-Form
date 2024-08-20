@@ -17,10 +17,20 @@ form {
     display: block;
     margin-top: 0em;
     unicode-bidi: isolate;
+    padding-left:15px;
 }
 body {
     display: block;
-    margin: 100px;}
+    margin: 100px;
+    background-image: url("../images/flower.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+
 .centered-heading{
 	text-align: center;
+
 }
